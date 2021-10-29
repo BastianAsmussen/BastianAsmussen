@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 ## Information
 - Website: https://asmussen.tech/
