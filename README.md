@@ -3,7 +3,6 @@
 ## Information
 - Website: https://asmussen.tech/
 - Discord: **Bastian#4686**
-- Discord Server: ![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bastianasmussen)
 
 ## Statistics
