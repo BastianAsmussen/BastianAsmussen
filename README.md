@@ -10,3 +10,4 @@
 
 ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23151515&textColor=%239f9f9f&qColor=%23fff&aColor=%23fff&borderColor=%23fff)
+[Google](https://google.com)
