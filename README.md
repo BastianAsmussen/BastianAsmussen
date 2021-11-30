@@ -5,7 +5,7 @@
 - Discord: **Bastian#0001**
 
 ## Statistics
-![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bastianasmussen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=komand33448&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bastianasmussen&langs_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
