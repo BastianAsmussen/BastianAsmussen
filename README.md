@@ -2,7 +2,7 @@
 
 ### Information
 - Website: **https://asmussen.tech/**
-- Discord: **Bastian#0001**
+- Discord: <a href="https://discord.asmussen.tech/">**Bastian#0001**</a>
 
 ## Statistics
 [![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianAsmussen&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true)]()  
