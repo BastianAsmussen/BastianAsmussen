@@ -1,6 +1,7 @@
 <h1 align="center">Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px></h1>
 
 ### Information
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BastianAsmussen.BastianAsmussen)
 - Website: **https://asmussen.tech/**
 - Discord: <a href="https://discord.asmussen.tech/">**Bastian#0613**</a>
 
