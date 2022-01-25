@@ -1,11 +1,11 @@
 <h1 align="center">Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px></h1>
 
-## Information
+# Information
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)
 - Website: **https://asmussen.tech**
 - Discord: <a href="https://discord.asmussen.tech">**Bastian#0613**</a>
 
-<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=24px></h2>
+<h1>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h1>
 <a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=java&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'/>
 <a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=linux&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'/>
   <a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=csharp&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/>
