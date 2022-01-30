@@ -9,7 +9,6 @@
 <a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=java&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'/>
 <a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=linux&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'/>
   <a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=csharp&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/>
-<a href=https://github.com/BastianAsmussen?tab=repositories&q=&type=&language=cpp&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'/>
 
 <hr>
 
