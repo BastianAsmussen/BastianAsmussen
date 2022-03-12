@@ -4,7 +4,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)
 - Website: **https://asmussen.studio**
 - Discord: <a href="https://discord.asmussen.tech">**Bastian#0613**</a>
-- 
+
 <hr/>
 
 <h1>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h1>
