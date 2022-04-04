@@ -29,7 +29,7 @@
 <hr>
 
 ## JOKE OF THE REFRESH
-![Joke Card](https://readme-jokes.vercel.app/api)
+![Joke Card](https://readme-jokes.vercel.app/api?theme=synthwave)
 
 <hr>
 
