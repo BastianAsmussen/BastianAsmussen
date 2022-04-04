@@ -28,5 +28,10 @@
 
 <hr>
 
+## JOKE OF THE REFRESH
+![Joke Card](https://readme-jokes.vercel.app/api)
+
+<hr>
+
 ## SUPPORT
 <p><a href="https://coffee.asmussen.tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="bastianasmussen" /></a></p>
