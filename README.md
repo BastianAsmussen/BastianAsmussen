@@ -3,7 +3,7 @@
 <hr>
 
 ## INFORMATION
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)  
 [![Coding Time](https://wakatime.com/badge/user/c8021613-effe-4e95-92c0-3bbcb8939a89.svg)](https://wakatime.com/@c8021613-effe-4e95-92c0-3bbcb8939a89)  
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://asmussen.studio/)  
 
