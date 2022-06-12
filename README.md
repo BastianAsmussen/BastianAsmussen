@@ -4,15 +4,14 @@
 
 ## INFORMATION
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)  
-[![wakatime](https://wakatime.com/badge/user/c8021613-effe-4e95-92c0-3bbcb8939a89.svg)](https://wakatime.com/@c8021613-effe-4e95-92c0-3bbcb8939a89)  
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://asmussen.studio/)  
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://asmussen.studio/)  
 
 > Website: **https://asmussen.studio**  
 > Discord: <a href="https://discord.asmussen.tech">**Bastian#0743**</a>
 
 <hr>
 
-<h2>SKILLS</h2>
+## SKILLS
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -28,6 +27,8 @@
 [![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianAsmussen&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true)]()  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BastianAsmussen&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastianAsmussen&theme=synthwave&include_all_commits=true&hide_border=true"/>  
+
+[![Bastian's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BastianA&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
