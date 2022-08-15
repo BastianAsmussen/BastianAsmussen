@@ -4,8 +4,6 @@
 
 ## INFORMATION
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)  
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://asmussen.studio/)  
-
 > Website: **https://asmussen.studio**  
 > Discord: <a href="https://discord.asmussen.tech">**Bastian#0743**</a>
 
