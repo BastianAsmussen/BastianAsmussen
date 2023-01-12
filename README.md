@@ -32,4 +32,4 @@
 
 <hr>
 
-<p><a href="https://coffee.asmussen.tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="bastianasmussen" /></a></p>
+<p><a href="https://www.buymeacoffee.com/asmussen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="bastianasmussen" /></a></p>
