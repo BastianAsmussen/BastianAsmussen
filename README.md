@@ -32,4 +32,6 @@
 
 <hr>
 
+Click [here](https://github.com/BastianAsmussen/BastianAsmussen/blob/7210afd1b2fb05d7f963edb18fe56d433050dda6/PC%20Specs.md) to see my PC specs!  
+
 <p><a href="https://www.buymeacoffee.com/asmussen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="bastianasmussen" /></a></p>
