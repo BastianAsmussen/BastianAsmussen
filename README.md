@@ -4,7 +4,6 @@
 
 ## INFORMATION
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)  
-> Website: **https://asmussen.studio**  
 > Discord: <a href="https://discord.com/invite/kAD2K9rgqJ">**Bastian#0743**</a>
 
 <hr>
