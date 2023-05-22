@@ -4,6 +4,7 @@
 
 ## INFORMATION
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Visitors&countColor=%235865f2)  
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FBastianA&logo=leetcode&logoColor=yellow)](https://leetcode.com/BastianA/)
 > Discord: <a href="https://discord.com/invite/kAD2K9rgqJ">**Bastian#0743**</a>
 
 <hr>
