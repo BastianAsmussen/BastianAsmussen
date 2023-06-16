@@ -3,7 +3,7 @@
 <hr>
 
 ## INFORMATION
-![Discord - Bastian#0743](https://img.shields.io/badge/Discord-Bastian%230743-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+![Discord - @bastian_a](https://img.shields.io/badge/Discord-%40bastian__a-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
 ![LeetCode](https://badges.peiyuan.ch/leetcode/BastianA/ranking?logo=leetcode&label=Rank&style=for-the-badge&color=FFA116)  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Total%20Visitors&countColor=%2337d67a)  
 <hr>
