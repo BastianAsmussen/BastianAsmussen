@@ -2,12 +2,6 @@
 
 <hr>
 
-## Information
-![Discord](https://img.shields.io/badge/Discord-bastian__a-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBastianAsmussen%2FBastianAsmussen&label=Total%20Visitors&countColor=%2337d67a)
-
-<hr>
-
 ## Skills
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="40" height="40"/></a>
