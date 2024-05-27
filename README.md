@@ -26,7 +26,6 @@
 
 ## Statistics
 ![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianAsmussen&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true)  
-![wasd](https://github-readme-stats.vercel.app/api/top-langs/?username=BastianAsmussen&theme=catppuccin_mocha&include_all_commits=true&hide_border=true)  
+![Bastian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastianAsmussen&theme=catppuccin_mocha&include_all_commits=true&hide_border=true)  
+![Snake Animation](https://raw.githubusercontent.com/BastianAsmussen/BastianAsmussen/output/snake.svg)  
 
-## Joke of The Refresh
-![Joke Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
