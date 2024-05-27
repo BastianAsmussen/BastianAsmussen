@@ -1,7 +1,5 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"></h1>
 
-<hr>
-
 ## Skills
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="40" height="40"/></a>
@@ -26,13 +24,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 
-<hr>
-
 ## Statistics
 ![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianAsmussen&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true)  
 ![wasd](https://github-readme-stats.vercel.app/api/top-langs/?username=BastianAsmussen&theme=catppuccin_mocha&include_all_commits=true&hide_border=true)  
-
-<hr>
 
 ## Joke of The Refresh
 ![Joke Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
