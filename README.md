@@ -33,6 +33,6 @@
 
 ## Statistics
 
-![Bastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianAsmussen&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true)  
-![Bastian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastianAsmussen&theme=catppuccin_mocha&layout=compact&include_all_commits=true&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianAsmussen&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastianAsmussen&theme=catppuccin_mocha&layout=compact&include_all_commits=true&hide_border=true)  
 ![Snake Animation](https://raw.githubusercontent.com/BastianAsmussen/BastianAsmussen/output/snake.svg)  
