@@ -28,7 +28,7 @@
 
 ### Miscellaneous
 
-[![Miscellaneous Things](https://skillicons.dev/icons?i=linux,arduino,godot,unity,aws,azure,cloudflare,nodejs,bun,figma,github,githubactions,gitlab,regex,svg,postman&perline=5)](https://asmussen.tech)
+[![Miscellaneous Things](https://skillicons.dev/icons?i=linux,arduino,godot,unity,aws,azure,cloudflare,nodejs,bun,figma,github,githubactions,gitlab,regex,less,svg,postman&perline=5)](https://asmussen.tech)
 
 ## Statistics
 
