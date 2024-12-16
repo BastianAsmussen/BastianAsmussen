@@ -24,11 +24,11 @@
 
 ### CLI Tools
 
-[![CLI Tools](https://skillicons.dev/icons?i=bash,git,cmake,npm,docker,kubernetes,kafka,powershell&perline=4)](https://asmussen.tech)
+[![CLI Tools](https://skillicons.dev/icons?i=bash,git,docker,less,npm,kubernetes,kafka,cmake,powershell&perline=4)](https://asmussen.tech)
 
 ### Miscellaneous
 
-[![Miscellaneous Things](https://skillicons.dev/icons?i=linux,arduino,godot,unity,aws,azure,cloudflare,nodejs,bun,figma,github,githubactions,gitlab,regex,less,svg,postman&perline=5)](https://asmussen.tech)
+[![Miscellaneous Things](https://skillicons.dev/icons?i=linux,arduino,godot,unity,aws,azure,cloudflare,nodejs,bun,figma,github,githubactions,gitlab,regex,svg,postman&perline=5)](https://asmussen.tech)
 
 ## Statistics
 
