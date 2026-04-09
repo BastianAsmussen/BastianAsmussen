@@ -16,7 +16,7 @@
 
 ### Operating Systems
 
-![OS Experience](https://skillicons.dev/icons?i=nix,arch,gentoo,debian,ubuntu,kali,mint,windows&perline=3)
+![OS Experience](https://skillicons.dev/icons?i=nix,arch,debian,ubuntu,kali,mint,windows&perline=3)
 
 ### Editors
 
