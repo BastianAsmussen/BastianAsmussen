@@ -4,7 +4,7 @@
 
 ### Languages
 
-[![Language Skills](https://skillicons.dev/icons?i=rust,cs,go,java,c,python,lua,cpp,bash,haskell,ts,js,html,css,gradle,maven,md&perline=5)](https://asmussen.tech)
+[![Language Skills](https://skillicons.dev/icons?i=rust,nix,go,cs,c,haskell,bash,zig,java,python,lua,cpp,ts,js,html,css,gradle,maven,md&perline=5)](https://asmussen.tech)
 
 ### Frameworks & Libraries
 
